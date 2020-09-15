@@ -1,4 +1,4 @@
-# webpack starter for paint
+# webpack starter
 
 ## Install
 
